@@ -1,0 +1,107 @@
+C:\Users\Usuario\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\Sistema - Simulado.exe.config
+C:\Users\Usuario\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\Sistema - Simulado.exe
+C:\Users\Usuario\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\Sistema - Simulado.pdb
+C:\Users\Usuario\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmMenu.resources
+C:\Users\Usuario\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.exe
+C:\Users\Usuario\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.pdb
+C:\Users\Usuario\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\MySql.Data.xml
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\Sistema - Simulado.exe.config
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\Sistema - Simulado.exe
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\Sistema - Simulado.pdb
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\MySql.Data.xml
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csprojAssemblyReference.cache
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmMenu.resources
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.Properties.Resources.resources
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csproj.GenerateResource.cache
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csproj.CoreCompileInputs.cache
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csproj.CopyComplete
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.exe
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.pdb
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmAlunos.resources
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmProvas.resources
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmCorrecao.resources
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmTreineiros.resources
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmSimulados.resources
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmCursos.resources
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.Notas.resources
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmUsuarios.resources
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmLogin.resources
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\PdfSharp.dll
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\PdfSharp.xml
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\Google.Protobuf.dll
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\MySql.Data.dll
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\MySqlBackup.dll
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\bin\Debug\Google.Protobuf.xml
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\Sistema - Simulado.exe.config
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\Sistema - Simulado.exe
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\Sistema - Simulado.pdb
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\Google.Protobuf.dll
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\MySql.Data.dll
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\MySqlBackup.dll
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\PdfSharp.Charting.dll
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\PdfSharp.dll
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\Google.Protobuf.xml
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\MySql.Data.xml
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\PdfSharp.xml
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\PdfSharp.Charting.xml
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\de\PdfSharp.resources.dll
+D:\Sistema - Simulado\Sistema - Simulado\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmAlunos.resources
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmCorrecao.resources
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmCursos.resources
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmLogin.resources
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmMenu.resources
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.Notas.resources
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmProvas.resources
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmSimulados.resources
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmTreineiros.resources
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmUsuarios.resources
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.Properties.Resources.resources
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csproj.GenerateResource.cache
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csproj.CoreCompileInputs.cache
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.exe
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.pdb
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csprojAssemblyReference.cache
+D:\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csproj.CopyComplete
+C:\Users\Silvio\Desktop\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmRemocao.resources
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\Sistema - Simulado.exe.config
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\Sistema - Simulado.exe
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\Sistema - Simulado.pdb
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\Google.Protobuf.dll
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\MySql.Data.dll
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\MySqlBackup.dll
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\PdfSharp.Charting.dll
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\PdfSharp.dll
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\Google.Protobuf.xml
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\MySql.Data.xml
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\PdfSharp.xml
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\PdfSharp.Charting.xml
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\de\PdfSharp.resources.dll
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\bin\Debug\de\PdfSharp.Charting.resources.dll
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csprojAssemblyReference.cache
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmAlunos.resources
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmCorrecao.resources
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmCursos.resources
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmLogin.resources
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmMenu.resources
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.Notas.resources
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmProvas.resources
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmRemocao.resources
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmSimulados.resources
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmTreineiros.resources
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.frmUsuarios.resources
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema___Simulado.Properties.Resources.resources
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csproj.GenerateResource.cache
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csproj.CoreCompileInputs.cache
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.csproj.CopyComplete
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.exe
+F:\empresa etec\Sistema - Simulado\Sistema - Simulado\obj\Debug\Sistema - Simulado.pdb
